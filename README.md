@@ -37,3 +37,8 @@ This version is therefore an enhanced and extended version of the original task.
 • 	how to refactor code (colors, separators, f‑strings)
 • 	more confidence in Python and logical thinking
 • 	how to prepare a clean, presentable project for GitHub and LinkedIn
+
+# Example
+<img width="342" height="366" alt="Snímek obrazovky 1" src="https://github.com/user-attachments/assets/0d902fa6-fc96-4138-972e-d08d3e920d82" />
+<img width="303" height="206" alt="Snímek obrazovky 2" src="https://github.com/user-attachments/assets/4d09b9b3-c002-4930-a938-6614fab01d2f" />
+
